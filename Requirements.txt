@@ -1,0 +1,4 @@
+imdb
+pyttsx3
+speech_recognition
+datetime
